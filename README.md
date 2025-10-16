@@ -1,4 +1,4 @@
-# aesd-assignments
+# aesd-assignments [![assignment-test](https://github.com/cu-ecen-aeld/assignment-1-pdulion/actions/workflows/github-actions.yml/badge.svg)](https://github.com/cu-ecen-aeld/assignment-1-pdulion/actions/workflows/github-actions.yml)
 This repo contains public starter source code, scripts, and documentation for Advanced Embedded Software Development (ECEN-5713) and Advanced Embedded Linux Development assignments University of Colorado, Boulder.
 
 ## Setting Up Git
